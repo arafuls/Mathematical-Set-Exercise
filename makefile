@@ -1,2 +1,2 @@
-MySet: MySet.cpp Source.cpp
-	g++ -std=c++11 -o MySet MySet.cpp Source.cpp
+MySet: MySet.cpp test.cpp
+	g++ -std=c++11 -o MySet MySet.cpp test.cpp
